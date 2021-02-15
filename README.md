@@ -25,7 +25,7 @@ The preferred way to configure the miner is the [JSON config file](src/config.js
 * **[Workers](http://workers.xmrig.info)** helps manage your miners via HTTP API.
 
 ## Donations
-* Default donation 0% (0 minute in 100 minutes) can be increased via option `donate-level` to 100 if you like.
+* Default donation 0% (0 minute in 100 minutes) can be increased via option `donate-level`(It could be 100 if you like).
 * XMR: `8BpUQPmrTRRHnMytMW1uNPRPu9HHD3kxr1srfYaGreNU4XwH88j1NUAMDBVZyUMqPfVz2jaMs8pao8Ddoo6TSfkwTzbxK3x`
 
 ## Developers
