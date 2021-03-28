@@ -27,7 +27,7 @@
 #include "base/kernel/Process.h"
 
 
-int main(int argc, char **argv) {
+int main(int argc, char* argv[]) {
     using namespace xmrig;
 
     Process process(argc, argv);
